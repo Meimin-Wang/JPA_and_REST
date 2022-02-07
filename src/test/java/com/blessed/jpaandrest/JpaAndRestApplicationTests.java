@@ -1,4 +1,4 @@
-package com.blessed.jpa_and_rest;
+package com.blessed.jpaandrest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -11,3 +11,5 @@ spring:
     show-sql: true  # 是否展示SQL
     database: mysql
     open-in-view: true
+server:
+  port: 8888

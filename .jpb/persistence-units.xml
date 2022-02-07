@@ -4,7 +4,7 @@
     <persistence-units>
       <persistence-unit name="Default">
         <packages>
-          <package value="com.blessed.jpa_and_rest" />
+          <package value="com.blessed.jpaandrest" />
         </packages>
       </persistence-unit>
     </persistence-units>
